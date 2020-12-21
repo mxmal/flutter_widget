@@ -1,2 +1,2 @@
 # flutter_widget
-手集一些不常见得但有特殊效果的widget
+收集一些不常见但有特殊效果的widget
