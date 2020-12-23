@@ -1,2 +1,3 @@
 flutter 一切皆为组件，很多官方给定的组件如ListView以及button可以自己通过组装小组件配合手势以及map映射实现，
 flutter Navigitor不同页面通过回调以及setState可以实时通信(案例：ev题库宝完形填空)
+回调相当于观察者模式监听callback的然后做出回应，是持续性的
