@@ -4,3 +4,6 @@ getPosition =>1.获得手势点击的局部坐标(widget所占内容的左上角
 2.通过widget 的key获得RenderBox，得到在屏幕中的位置全局坐标
 
 main=>自己写的popupwindow 通过回调两个widget同步交互刷新,看一下就懂了吧
+
+
+
